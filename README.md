@@ -21,3 +21,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+![NOTES_APP](https://github.com/Dragonwinner/REACT-nOTES-WITH-FIRABASE/assets/114378193/19851954-0e3b-4539-b564-465c4cf888bc)
